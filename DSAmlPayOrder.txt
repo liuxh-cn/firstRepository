@@ -1,0 +1,39 @@
+2017/5/25   private String orderType;
+
+    private String tradeMode;
+
+    private String tradeType;
+
+    private String payCustUserId;
+
+    private String payCustAcct;
+
+    private String payCustName;
+
+    private String payCustCardNo;
+
+    private String payBank;
+
+    2017/5/25private String colCustUserId;
+
+    private String colCustAcct;
+
+    private String colCustName;
+
+    private String colCustCardNo;
+
+    private String colBank;
+
+    private String tradeName;
+
+    private String ip;
+
+    private String extOrderNo;
+
+    private String depart;
+
+    private static final long serialVersionUID = 1L;
+
+    private String taskId;
+
+	
